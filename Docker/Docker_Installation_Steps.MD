@@ -1,3 +1,6 @@
+#Important tips for Webapps
+https://www.topzenith.com/2020/07/http-status-404-not-found-docker-tomcat-image.html
+
 # Installing Docker on Amazon Linux server
 
 ### Pre-requisites
